@@ -50,7 +50,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://taosewu.github.io/index',
+	'https://taosewu.github.io',
 ];
 
 var foreverUrls = [
