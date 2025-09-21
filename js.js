@@ -40,6 +40,8 @@ var urls=[
 	'1020154.xyz',
 	'1020155.xyz',
 	'1020156.xyz',
+	'1020157.xyz',
+	'1020158.xyz',
 ];
 
 var newestUrls = [];
@@ -50,7 +52,7 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://taosewu.github.io',
+	'https://taosewu.github.io/',
 ];
 
 var foreverUrls = [
