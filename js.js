@@ -37,7 +37,6 @@ var emails = [
 ];
 
 var urls=[
-	'1020154.xyz',
 	'1020155.xyz',
 	'1020156.xyz',
 	'1020157.xyz',
@@ -150,4 +149,5 @@ window.onload = function () {
     // Description
     var noticeFieldElem = createFieldElem({title: '注意事项', items: notices, plainText: true, classStr: 'desc'});
     mainElem.appendChild(noticeFieldElem);
+
 }
