@@ -37,10 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'1020155.xyz',
-	'1020156.xyz',
-	'1020157.xyz',
-	'1020158.xyz',
+	'10201520.xyz',
 ];
 
 var newestUrls = [];
@@ -151,3 +148,4 @@ window.onload = function () {
     mainElem.appendChild(noticeFieldElem);
 
 }
+
