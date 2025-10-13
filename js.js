@@ -57,7 +57,7 @@ var foreverUrls = [
 
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
-    '* 中国移动用户如果依然无法访问最新地址，请耐心等待我们更新地址，稍后来查看最新地址。',
+    '* 移动用户如果依然无法访问最新地址，请耐心等待我们更新地址，稍后来查看最新地址。',
     '* 大陆地区用户我们建议您可以使用VPN或者代理的方式来访问我们的永久地址。',
 	'* 大陆地区用户我们强烈建议您截图收藏当前页面。'
 ];
@@ -148,6 +148,7 @@ window.onload = function () {
     mainElem.appendChild(noticeFieldElem);
 
 }
+
 
 
 
