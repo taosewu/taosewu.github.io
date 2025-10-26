@@ -37,7 +37,7 @@ var emails = [
 ];
 
 var urls=[
-	'10201524.xyz',
+	'10201525.xyz',
 ];
 
 var newestUrls = [];
@@ -148,6 +148,7 @@ window.onload = function () {
     mainElem.appendChild(noticeFieldElem);
 
 }
+
 
 
 
