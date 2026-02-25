@@ -128,7 +128,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问淘色坞'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '中国移动用户如果依然无法访问最新地址，请用电信联通等其他运营商网络来访问'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
@@ -148,6 +148,7 @@ window.onload = function () {
     mainElem.appendChild(noticeFieldElem);
 
 }
+
 
 
 
